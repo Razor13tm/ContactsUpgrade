@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="qw">Сохранить</string>
+    <string name="qa">Телефон</string>
+    <string name="qe">Фамилия</string>
+    <string name="qr">Имя</string>
+    <string name="nm">Имя</string>
+    <string name="fm">Фамилия</string>
+    <string name="p">ПОИСК</string>
+</resources>
